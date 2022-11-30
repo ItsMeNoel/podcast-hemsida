@@ -1,0 +1,33 @@
+.button-position {
+    display: flex;
+    
+    justify-content: center;
+    margin-bottom: 8%;
+    margin-top: -8%;
+
+    z-index: 6;
+
+
+}
+
+.play-button {
+
+    width: 20%;
+    margin-top: 20%;
+    margin-left: 2%;
+    
+}
+
+a:hover {
+    background-color: black;
+
+
+}
+
+.fina-buttons {
+
+    height: 550px;
+    overflow:hidden;
+
+
+}
