@@ -11,7 +11,7 @@
 }
 
 #team {
-    margin-top: -8%;
+    margin-top: -4%;
 }
 
 .play-button {
@@ -26,6 +26,11 @@ a:hover {
     background-color: black;
 
 
+}
+
+.episodePlayButton {
+    margin-left: 6%;
+    margin-top: 20%;
 }
 
 .fina-buttons {
