@@ -1,13 +1,21 @@
 .button-position {
     display: flex;
-    
     justify-content: center;
     margin-bottom: 10%;
     margin-top: -10%;
+   
 
     z-index: 6;
 
 
+}
+
+.logga{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    width:30%;
+    
 }
 
 #team {
