@@ -14,8 +14,11 @@
     display:flex;
     justify-content: center;
     align-items:center;
-    width:30%;
     
+    
+}
+#loggaText{
+    font-size: 300%;
 }
 
 #team {
