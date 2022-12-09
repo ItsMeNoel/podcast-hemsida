@@ -1,6 +1,7 @@
 .button-position {
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-bottom: 10%;
     margin-top: -10%;
    
@@ -14,11 +15,15 @@
     display:flex;
     justify-content: center;
     align-items:center;
+
+    height: 110%;
+    
+
     
     
 }
 #loggaText{
-    font-size: 300%;
+    font-size: 320%;
 }
 
 #team {
